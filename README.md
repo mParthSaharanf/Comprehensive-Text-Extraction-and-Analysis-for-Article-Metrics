@@ -61,7 +61,5 @@ These dependencies are also listed in the `requirements.txt` file.
 - Make sure you have a stable internet connection while running the script, as it involves fetching data from the provided URLs.
 - If you encounter any issues, check the error messages and ensure that all dependencies are installed correctly.
 
-## License
 
-This project is licensed under the MIT License.
 
