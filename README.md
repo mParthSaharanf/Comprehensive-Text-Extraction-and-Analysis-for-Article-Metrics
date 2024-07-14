@@ -7,7 +7,7 @@ The objective of this project is to extract textual data from given URLs and per
 Data Extraction
 
     Read Input Data:
-        Load the URLs from an Excel file located at /home/yung_nusrat/for_intern/data/Input.xlsx.
+        Load the URLs from an Excel file located at /path/to_your/file/data/Input.xlsx.
 
     Scrape Articles:
         For each URL, use the requests library to fetch the web page content and BeautifulSoup to parse the HTML.
@@ -46,10 +46,10 @@ Text Analysis
 Saving Results
 
     Text Files:
-        Save the extracted articles as text files in the /home/yung_nusrat/for_intern/text_files directory.
+        Save the extracted articles as text files in the path/to_your/file/text_files directory.
 
     CSV File:
-        Save the final analysis results in a CSV file located at /home/yung_nusrat/for_intern/data/final.csv.
+        Save the final analysis results in a CSV file located at path/to_your/file/final.csv.
 
 ## Prerequisites
 
